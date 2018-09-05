@@ -1,0 +1,39 @@
+body {
+  background-color: hsla(0,100%,50%,0.3);
+  font-family: 'Dosis', sans-serif;
+
+}
+
+h1 {
+  font-size: 50px;
+  font-weight: 800;  
+}
+
+h2 {
+  font-size: 30px; 
+}
+
+td {
+  padding: 40px;
+  vertical-align: middle;
+}
+
+table {
+  margin: 20px auto; 
+}
+
+img {
+  border-radius: 50%; 
+}
+
+#intro {
+  text-align: center; 
+}
+
+#articles.h4 {
+  font-weight: bold; 
+}
+
+ul {
+  list-style: circle;
+}
